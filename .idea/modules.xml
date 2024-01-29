@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OrangeHRM/.idea/OrangeHRM.iml" filepath="$PROJECT_DIR$/../OrangeHRM/.idea/OrangeHRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/opencartProject.iml" filepath="$PROJECT_DIR$/.idea/opencartProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../seleniumProject/.idea/seleniumProject.iml" filepath="$PROJECT_DIR$/../seleniumProject/.idea/seleniumProject.iml" />
+    </modules>
+  </component>
+</project>
